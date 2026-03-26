@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wondersonbrain" alt="wondersonbrain" /></a> </p>
 
-- 🌱 I’m currently learning **in IT DEL**
+- 🌱 I’m currently learning **wherever**
 
-- 📫 How to reach me **brainwonderson@gmail.com**
+- 📫 How to reach me **athlestan@gmail.com**
 
 - ⚡ Fun fact **I am single**
 
